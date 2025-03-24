@@ -383,5 +383,3 @@ Review the scenario below. Then, complete all the steps.
 You manage a sales team that just successfully completed a high-stakes project that brought in a major client. You want to send an email thanking your team for all their hard work and dedication to the project. With limited time in your schedule, you’ve decided to use a conversational AI tool to help you draft the message.
 
 ---
-
-Essa organização mantém a estrutura original do documento, separando claramente o conteúdo em português e inglês para facilitar a leitura e referência. Caso precise de ajustes adicionais, como a inclusão de mais seções ou formatação específica, é só me avisar!
